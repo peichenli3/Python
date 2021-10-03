@@ -4,3 +4,5 @@
 * Converting long to wide
 * Appending all files into one single csv
 * Creating a Choropleth Map of 2018 SOI income data
+
+![](output/cmap_ps.png?raw=true)
